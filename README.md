@@ -5,14 +5,14 @@
 `npm install`
 
 ### Visit 'https://exchangeratesapi.io/'
-### Create an account, and get your free api key
+### Create an account, and get your free access key
 
 ### Create a config.env file
-### Set PORT and API_KEY. 
+### Set PORT and ACCESS_KEY. 
 sample:
 ```
 PORT=5000
-API_KEY=your api key here
+ACCESS_KEY=your api key here
 ```
 
 ### Then start the server by running following command in one terminal.
