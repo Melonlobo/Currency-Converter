@@ -8,7 +8,8 @@
 ### Create an account, and get your free api key
 
 ### Create a config.env file
-### Set PORT,API_KEY, sample
+### Set PORT and API_KEY. 
+sample:
 ```
 PORT=5000
 API_KEY=your api key here
